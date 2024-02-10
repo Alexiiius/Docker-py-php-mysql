@@ -16,12 +16,15 @@ Para instalar y ejecutar este script, sigue estos pasos:
 
 
 1. Descargue o clone el repositorio en el directorio donde quiera establecer su entorno de prueba.
+   ```bash
+   git clone https://github.com/Alexiiius/Docker-py-php-mysql.git
+   ```
 
-2. Lance docker-compose en el directorio donde quiera establecer su entorno de prueba.
+3. Lance docker-compose en el directorio donde quiera establecer su entorno de prueba.
     ```bash
     docker-compose up
     ```
-3. Si ha usado alguna imagen que se este empleando en el recurso, es posible que surjan errores, limpie las imagenes de su docker en caso de fallos.
+4. Si ya ha usado alguna imagen que se este empleando en el recurso, es posible que surjan errores, limpie las imagenes de su docker en caso de fallos.
 
 ## Uso
 
