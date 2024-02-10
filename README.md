@@ -36,4 +36,4 @@ Por defecto se han mapeado los puertos de los contenedor de la siguiente manera:
 ## Datos de Interes
 
 1. El servidor phyton instala el framework flask y mysql connector por defecto a traves del dockerfile.
-2. El servidor php no esta configurado, si se quiere emplear pdo o alguna otra extension, se deben de aplicar a mano.
+2. El servidor php no esta configurado mas haya de mysqli, si se quiere emplear pdo o alguna otra extension, se deben de aplicar a mano.
