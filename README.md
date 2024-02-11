@@ -40,6 +40,13 @@ Por defecto se han mapeado los puertos de los contenedor de la siguiente manera:
   - Phyton 8081
   - Phpmyadmin 8084
 
+Parametros de la DB:
+  - Root PW: `rootpassword`
+  - Usuario: `user`
+  - Usuario PW: `password`
+  - Esquema por defecto: `mydb`
+  - Nombre contenedor: `db`
+
 Cualquier cambio realizado en los Dockerfile requerira que se vuelvan a reconstruir los volumenes para ello borre respectivamente las imagenes y volumenes en su Docker y reconstruyalos.
 
 ## Datos de Interes
