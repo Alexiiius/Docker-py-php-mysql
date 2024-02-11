@@ -30,6 +30,7 @@ Para instalar y ejecutar este script, sigue estos pasos:
 
 Una vez lanzado exitosamente, se habran mapeado las carpetas `php` y `phyton` a sus respectivos servidores.
 En ambas carpetas se encuentran la raices de los servidores asi como un archivo de prueba. 
+
 Ambos scripts son codigo basura y no recomendado para su uso. Han sido generados parcialmente con Copilot para hacer una prueba rapida. Ambos se conectan a la base de datos, construyen una tabla, la pueblan y la imprimen en pantalla.
 
 Se recomienda borrar estos scripts tras probar su funcionalidad y limpiar la base de datos en caso de haberlos ejecutado.
