@@ -42,8 +42,8 @@ services:
       - db
     environment:
       PMA_HOST: db
-      PMA_USER: user
-      PMA_PASSWORD: password
+      PMA_USER: root
+      PMA_PASSWORD: rootpassword
       PMA_ARBITRARY: 1
 
 volumes:
