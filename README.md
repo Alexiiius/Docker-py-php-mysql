@@ -52,5 +52,4 @@ Cualquier cambio realizado en los Dockerfile requerira que se vuelvan a reconstr
 ## Datos de Interes
 
 1. El servidor phyton instala el framework flask y mysql connector por defecto a traves del Dockerfile.
-2. Tambien cabe mencionar que el servidor phyton esta atacando a app.py por defecto, esto esta configurado en el Dockerfile
-3. El servidor php no esta configurado mas haya de mysqli, si se quiere emplear pdo o alguna otra extension, se deben de aplicar a mano en su respectivo Dockerfile.
+2. Tambien cabe mencionar que el servidor phyton esta atacando a app.py por defecto, esto esta configurado en el Dockerfile.
